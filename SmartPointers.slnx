@@ -5,7 +5,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SmartPointer/SmartPointer.vcxproj">
+  <Project Path="SmartPointer/SmartPointer.vcxproj" Id="8163cf48-43c2-4935-b3a4-d63a32d77de1">
     <Platform Solution="*|ARM" Project="x64" />
     <Platform Solution="*|ARM64" Project="x64" />
   </Project>
